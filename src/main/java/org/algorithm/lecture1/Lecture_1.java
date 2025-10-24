@@ -1,4 +1,4 @@
-package org.algorithm.leacure1;
+package org.algorithm.lecture1;
 
 /* This kind of comment can span multiple lines */
 

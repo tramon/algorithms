@@ -1,4 +1,4 @@
-package org.algorithm.leacure1;
+package org.algorithm.lecture1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
