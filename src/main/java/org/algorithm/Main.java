@@ -5,7 +5,7 @@ package org.algorithm;
 public class Main {
 
 
-    public static void main() {
+    static void main() {
         System.out.println("Hello world!");
 
     }
