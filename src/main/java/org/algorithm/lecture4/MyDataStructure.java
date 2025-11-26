@@ -15,8 +15,5 @@ public class MyDataStructure implements  DataStructure {
     public int size() {
         return numberOfElements;
     }
+
 }
-
-
-
-
